@@ -4,3 +4,9 @@ d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\bin\Debug\NumberG
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.exe
 d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\bin\Debug\NumberGuesser.exe.config
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\obj\Debug\NumberGuesser.exe
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\obj\Debug\NumberGuesser.pdb
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\bin\Debug\NumberGuesser.exe
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\bin\Debug\NumberGuesser.pdb
+C:\Users\Bruno\Projetos_Kely\NumberGuesserGame\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache

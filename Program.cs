@@ -16,9 +16,6 @@ namespace NumberGuesser
             while (true)
             {
 
-                // Init correct number
-                //int correctNumber = 7;
-
                 // Create a new Random object
                 Random random = new Random();
 
@@ -59,7 +56,7 @@ namespace NumberGuesser
                 }
 
                 // Print success message
-                PrintColorMessage(ConsoleColor.Yellow, "CORRECT!! You guessed it!");
+                PrintColorMessage(ConsoleColor.Green, "CORRECT!! You guessed it!");
 
                 // Ask to play again
                 Console.WriteLine("Play Again? [Y or N]");
@@ -86,10 +83,10 @@ namespace NumberGuesser
             // Set app vars
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
-            string appAuthor = "Brad Traversy";
+            string appAuthor = "kelymbp";
 
             // Change text color
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Cyan;
 
             // Write out app info
             Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
